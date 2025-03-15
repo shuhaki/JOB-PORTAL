@@ -1,15 +1,10 @@
 MERN Stack Job Portal
+
 Welcome to the Job Portal project! This project is a job portal application built using the MERN stack (MongoDB, Express, React, Node.js).
 
-Table of Contents
-Project Overview
-Features
-Installation
-Usage
-Contributing
 
+Project Overview:
 
-Project Overview
 This Job Portal application allows users to search and apply for jobs, as well as for employers to post job openings. The application is built using the MERN stack, which provides a robust and efficient development environment for full-stack applications.
 
 Features
@@ -21,7 +16,7 @@ Responsive design for mobile and desktop
 Installation
 To run this project locally, follow these steps:
 
-Backend Setup
+Backend Setup:
 Navigate to the backend directory:
 
 cd ./backend
@@ -35,7 +30,8 @@ You should see the following messages:
 
 "Your server is running on a port"
 "MongoDB connected..."
-Frontend Setup
+
+Frontend Setup:
 Navigate to the frontend directory:
 
 cd ./frontend
